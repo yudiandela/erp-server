@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "message": "Ok",
+  "data": {
+    "name": "Yudi Andela",
+    "gender": "Pria",
+    "photo": ""
+  }
+}
